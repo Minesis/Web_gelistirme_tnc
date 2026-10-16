@@ -1,6 +1,6 @@
 # Duygu Atölyesi — Model Destekli Günlük
 
-Türkçe günlükleri kullanıcının eğittiği Linear SVM modeliyle sınıflandıran ve aylık duygu dağılımını gösteren React uygulaması.
+Türkçe günlükleri kullanıcının eğittiği Linear SVM modeliyle sınıflandıran ve aylık duygu dağılımını gösteren React uygulaması. [Buradan web sitesini ziyaret edebilirsiniz.](https://startling-entremet-ffba4f.netlify.app) 
 
 ## Kurulum
 Node.js 22.13+ ve npm gerekir. Klasörü VS Code ile açıp terminalde:
